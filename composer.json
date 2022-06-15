@@ -1,5 +1,5 @@
 {
-    "name": "stone/phinx-migrations-generator",
+    "name": "nyuwa/phinx-migrations-generator",
     "type": "library",
     "description": "Migration generator for Phinx",
     "keywords": [
